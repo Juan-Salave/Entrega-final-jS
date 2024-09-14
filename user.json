@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "nombre": "juan",
+        "password": 1234,
+        "alias": "Juanmi_salave",
+        "imagen": "static/img/f-2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "ale",
+        "password": 1234,
+        "alias": "El_Prof_Di_Stefano_Js",
+        "imagen": "static/img/f-3.jpg"        
+    },
+    {
+        "id": 2,
+        "nombre": "jose",
+        "password": 1234,
+        "alias": "Joselo_8-D",
+        "imagen": "static/img/f-2.jpg"
+        
+    }
+]

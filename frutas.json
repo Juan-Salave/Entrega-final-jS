@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "nombre": "Naranja",
+        "cantidad": 0,
+        "descripcion": "Importadas de Valencia España ",
+        "precio": 2000.00,
+        "imagen": "static/img/f-1.jpg",
+        "stock": 1000
+    },
+    {
+        "id": 2,
+        "nombre": "Arandanos",
+        "cantidad": 0,
+        "descripcion": "Importados de Estados Unidos",
+        "precio": 1200.00,
+        "imagen": "static/img/f-2.jpg",
+        "stock": 200
+        
+    },
+    {
+        "id": 3,
+        "nombre": "Banana",
+        "cantidad": 0,
+        "descripcion": "Importados de Quito - Ecuador.",
+        "precio": 3500.00,
+        "imagen": "static/img/f-3.jpg",
+        "stock": 200
+    },
+    {
+        "id": 4,
+        "nombre": "Manzana",
+        "cantidad": 0,
+        "descripcion": "Importadas de China.",
+        "precio": 5500.00,
+        "imagen": "static/img/f-4.jpg",
+        "stock": 50
+    },
+    {
+        "id": 5,
+        "nombre": "Mango",
+        "cantidad": 0,
+        "descripcion": "Importado de la India.",
+        "precio": 3000.00,
+        "imagen": "static/img/f-5.jpg",
+        "stock": 40
+    },
+    {
+        "id": 6,
+        "nombre": "Frutilla",
+        "cantidad": 0,
+        "descripcion": "Importadas de la Turquía.",
+        "precio": 6000.00,
+        "imagen": "static/img/f-6.jpg",
+        "stock": 300
+    },
+    {
+        "id": 7,
+        "nombre": "Piña",
+        "cantidad": 0,
+        "descripcion": "Importadas de Veracruz - Mexico.",
+        "precio": 5000.00,
+        "imagen": "static/img/f-7.jpg",
+        "stock": 90
+    },
+    {
+        "id": 8,
+        "nombre": "Pera",
+        "cantidad": 0,
+        "descripcion": "Importada desde China.",
+        "precio": 8500.00,
+        "imagen": "static/img/f-8.jpg",
+        "stock": 90
+    },
+    {
+        "id": 9,
+        "nombre": "Kiwi",
+        "cantidad": 0,
+        "descripcion": "Importados desde Nueva Zelanda.",
+        "precio": 4200.00,
+        "imagen": "static/img/f-9.jpg",
+        "stock": 120
+    },
+    {
+        "id": 10,
+        "nombre": "Mandarina",
+        "cantidad": 0,
+        "descripcion": "Importadas desde China.",
+        "precio": 1000.00,
+        "imagen": "static/img/f-10.jpg",
+        "stock": 250
+    },
+    {
+        "id": 11,
+        "nombre": "Durazno",
+        "cantidad": 0,
+        "descripcion": "Importado desde Zacateca - Mexico.",
+        "precio": 5500.00,
+        "imagen": "static/img/f-11.jpg",
+        "stock": 160
+    },
+    {
+        "id": 12,
+        "nombre": "Melon",
+        "cantidad": 0,
+        "descripcion": "Importado desde Hokkaido - Japón.",
+        "precio": 4500.00,
+        "imagen": "static/img/f-12.jpg",
+        "stock": 30
+    },
+    {
+        "id": 13,
+        "nombre": "Papaya",
+        "cantidad": 0,
+        "descripcion": "Importada desde Merida - México.",
+        "precio": 3500.00,
+        "imagen": "static/img/f-13.jpg",
+        "stock": 25
+    }
+]
