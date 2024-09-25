@@ -11,3 +11,43 @@
     border-radius: 20px;
     width: 100%;    
 }
+.filtro {
+    display: none;
+}
+
+
+/* // data.forEach(fruta => {
+    //     // console.log(fruta.nombre.toLowerCase().includes(e.target.value))
+    //     fruta.nombre.toLowerCase().includes(textoBusqueda)
+    //     ? fragment.classList.remove('filtro')
+    //     pwwm```
+    // }) */
+
+
+
+
+    /* document.addEventListener('keyup', e => {
+
+        const textoBusqueda = buscadorInput.value.toLowerCase()
+
+        if (e.target.matches('#entrada-input')) {
+            for (fruta of data) {
+                // console.log(fruta.nombre.toLowerCase().includes(textoBusqueda))                
+                if (fruta.nombre.toLowerCase().includes(textoBusqueda)) {
+                    fragment.classList.remove('anular')
+                } else {
+                    fragment.classList = 'anular';
+                };
+            }
+            
+            
+            // data.forEach(fruta => {
+            //     // console.log(fruta.nombre.toLowerCase().includes(e.target.value))
+            //     console.log(fruta.nombre.toLowerCase().includes(textoBusqueda))
+            //     fruta.nombre.toLowerCase().includes(textoBusqueda)
+            //     ? fragment.classList.remove('anular')
+            //     : fragment.classList.add('anular')
+            // })
+        }
+      
+    }) */
